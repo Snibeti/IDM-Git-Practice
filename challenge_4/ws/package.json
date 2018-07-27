@@ -1,7 +1,7 @@
 {
-  "name": "challenge_3",
+  "name": "challenge_4",
   "version": "0.0.1",
-  "description": "Challenge 3 for Alpha",
+  "description": "Challenge 4 solution",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,11 @@
   "keywords": [
     "gulp"
   ],
-  "author": "Alpha",
+  "author": "Woo Song",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.24.6",
     "gulp": "^3.9.1",
-    "gulp-refresh": "^1.1.0",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-stylus": "^2.7.0"
   }
