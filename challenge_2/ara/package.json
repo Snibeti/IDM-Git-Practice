@@ -1,0 +1,16 @@
+{
+  "name": "ara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uglify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "uglifycss": "0.0.29",
+    "write": "^1.0.3"
+  }
+}

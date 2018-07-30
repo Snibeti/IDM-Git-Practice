@@ -1,0 +1,23 @@
+{
+	"name": "challenge3",
+	"version": "0.0.1",
+	"description": "Gulp based build systems example",
+	"main": "gulpfile.js",
+	"author": {
+		"email": "code@philsinatra.com",
+		"name": "Phil Sinatra"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"del": "^3.0.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^5.0.0",
+		"gulp-if": "^2.0.2",
+		"gulp-plumber": "^1.2.0",
+		"gulp-sourcemaps": "^2.6.4",
+		"gulp-stylus": "^2.7.0",
+		"gutil": "^1.6.4",
+		"yargs": "^11.0.0"
+	},
+	"dependencies": {}
+}

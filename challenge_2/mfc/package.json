@@ -1,0 +1,23 @@
+{
+  "name": "mikes-mini-css",
+  "version": "1.0.0",
+  "description": "Minifies css for IDM-T380",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonology/IDM-Git-Practice.git"
+  },
+  "author": "Mike Carbone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbonology/IDM-Git-Practice/issues"
+  },
+  "homepage": "https://github.com/carbonology/IDM-Git-Practice#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "uglifycss": "0.0.29"
+  }
+}

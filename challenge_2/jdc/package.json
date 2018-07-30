@@ -1,0 +1,19 @@
+{
+  "name": "jdc",
+  "version": "1.0.0",
+  "description": "Challenge 2 CSS Minify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "minify"
+  ],
+  "author": "Jacob Culp",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "uglifycss": "0.0.29"
+  }
+}

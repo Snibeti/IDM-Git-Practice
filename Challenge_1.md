@@ -13,8 +13,18 @@ Add your entry under the headings below:
 ## Alpha Team
 
 - :sushi: Woo Song
+- :alien: Mel Gross
+- :vhs: Jordan Zagerman
+- :moyai: Ben Rodia
 
 ## Beta Team
+
+- :dart: Yuang Li
+- :pizza: Axel Mortimer
+- :octopus: Katie Zhao
+- :lollipop: Nick Camarata
+- :trollface: George Fee
+
 
 ## Charlie Team
 
@@ -22,3 +32,4 @@ Add your entry under the headings below:
 - :panda_face: Veronica Lin
 - :hammer: Mike Carbone
 - :raising_hand: Hannah Sayer
+- :dog: Sarah Bray

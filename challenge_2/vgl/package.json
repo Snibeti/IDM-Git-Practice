@@ -1,0 +1,19 @@
+{
+  "name": "vgl",
+  "version": "1.0.0",
+  "description": "CSS minify Challenge 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minify",
+    "css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csso": "^3.5.1"
+  },
+  "devDependencies": {}
+}
